@@ -61,7 +61,7 @@ const cardData = [
 
 export default function App() {
   return (
-    <div className="bg-dark">
+    <div className="bg-info">
       <Navbar />
       <div className="container">
         <div className="row g-4 row-cols-1 row-cols-md-2 row-cols-lg-3">
